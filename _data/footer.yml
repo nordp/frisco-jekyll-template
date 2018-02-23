@@ -1,26 +1,18 @@
 left_links:
   - name: Blog
     link: /blog/
-  - name: About
-    link: /about/
+  - name: CV
+    link: /cv/
   - name: Contact
     link: /contact/
 right_links:
   - name:
-    link: https://facebook.com/
+    link: https://github.com/nordp
     new_window: true
-    social_icon: Facebook
+    social_icon: Github
   - name:
-    link: https://twitter.com/
-    social_icon: Twitter
-    new_window: true
-  - name:
-    link: https://youtube.com/
-    social_icon: YouTube
-    new_window: true
-  - name:
-    link: https://plus.google.com/
-    social_icon: Google Plus
+    link: https://linkedin.com/in/philip-nord-4bb2a998/
+    social_icon: Linkedin
     new_window: true
   - name:
     link: /feed.xml
