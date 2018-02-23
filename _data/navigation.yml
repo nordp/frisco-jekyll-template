@@ -1,6 +1,6 @@
-- name: Blog
+- name: Projects
   link: /blog/
-- name: About
-  link: /about/
+- name: CV
+  link: /cv/
 - name: Contact
   link: /contact/
